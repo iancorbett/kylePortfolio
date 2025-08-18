@@ -55,7 +55,7 @@ export const About = () => {
             <div className="rounded-2xl bg-card/70 border border-border p-6 md:p-8 text-left shadow-sm">
               <h3 className="text-xl md:text-2xl font-semibold">A little about me</h3>
               <p className="mt-3 text-foreground/70">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi at tristique feugiat,
+                Lorem test test ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisi at tristique feugiat,
                 augue lorem luctus odio, eget volutpat nunc lorem id magna. Lorem ipsum dolor sit amet, consectetur
                 adipiscing elit. Donec euismod, nisi at tristique feugiat, augue lorem luctus odio, eget volutpat nunc
                 lorem id magna.
